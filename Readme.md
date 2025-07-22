@@ -11,10 +11,13 @@
 ⚬ HTML5 <Br>
 ⚬ CSS3   <br>
 ⚬ Flexbox  <br>
-⚬ Media Query
+⚬ Media Queries
 
 ## ✨ Features :
 
 • It is complete "Mobile", "Desktop", & "Tablet" Responsive. <br>
 •  Favicon Brand has been also added in it. <br>
 • It is a creative Juice Website.
+
+⭐ If you like this project,  give it a star!  
+Feel free to fork and use it for your own juice websites.
